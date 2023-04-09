@@ -1,0 +1,53 @@
+Ques-1) WHAT IS EMMET?
+Ans-1)  Use Emmet to improve workflow by speeding up coding and editing in (X)HTML, CSS, XML, XSL
+        and JSP files. Emmet speeds coding by transforming abbreviations into blocks of
+        structured code and improves editing with better code navigation and selection.
+
+Ques-2) DIFFERENCE BETWEEN A LIBRARY AND A FRAMEWORK ?
+Ans-2)
+        LIBRARY:
+        1.  Libraries provide developers with predefined functions and classes to make
+            their work easier and boost the development process.
+        2.  It is possible to call a library out of context. You may use the library wherever you
+            see fit in your code.
+        3.  It is easy to replace a library with another library. For instance, if you do not
+            like the jQuery date picker library, you can use another date picker like a bootstrap
+            date picker or pick date.
+        4.  Less code is required to build libraries, which leads to faster loading times and
+            better performance.
+
+        FRAMEWORK:
+
+        1.  Framework, on the other hand, is like the foundation upon which developers build
+            applications for specific platforms.
+        2.  On the other hand, you can only call and use what belongs to a Framework within the
+            same Framework. 
+        3.  Frameworks are difficult to replace. If, for instance, you were using AngularJS to
+            build your product, you cannot simply swap it out for another framework. It requires
+            rewriting the entire codebase. 
+        4.  Developing a framework requires a lot of coding, which increases loading times and
+            decreases performance.
+
+Ques-3) WHAT IS CDN AND WHY DO WE USE IT?
+Ans-3)  CDN is Content Delivery Network.
+        A content delivery network (CDN) is a network of caching servers (edge servers/PoPs) that
+        serve digital content from locations that are geographically closest to visitors. CDN
+        server, Edge location, Point of Presence(PoP) meaning. These locations contain many
+        caching servers that reduce the distance data must travel.Generally CDN is ot used in Production.
+
+Ques-4) WHY REACT IS CALLED AS REACT ?
+Ans-4)  React is called React because it is a library that reacts to changes in the data and renders
+        the user interface accordingly. see below Screenshot
+        ![Screenshot](why_react_is_called_react.JPG)
+
+Ques-5) WHAT IS CROSS ORIGIN IN A SCRIPT TAG ?
+Ans-5)  
+
+Ques-5) DIFFERENCE BETWEENREACT AND REACT DOM ?
+Ans-5)  
+
+Ques-5) WHAT IS THE DIFFEREBCE BETWEEN react.development.js AND react.production.js FILES VIA CDN ?
+Ans-5) 
+
+Ques-6) Whats are Async and Differ ?
+Ans-5)  
